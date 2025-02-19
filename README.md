@@ -59,5 +59,5 @@ The dataset includes the following columns:
 - IT-related streams (e.g., Computer Science, Information Technology) are more popular.
 - CGPA plays a significant role in placements, with most placed students having a CGPA between 7 and 8.
 
-## Screenshots
+
 
